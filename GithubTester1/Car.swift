@@ -12,3 +12,5 @@ let x = 2 + 2
 var y = x^2
 
 var z = x - y
+
+var s = 1 + 2
