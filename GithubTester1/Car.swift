@@ -14,3 +14,7 @@ var y = x^2
 var z = x - y
 
 var s = 1 + 2
+
+var t = 2 + 2
+
+var u = 3 + 3
